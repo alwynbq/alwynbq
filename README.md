@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @alwynbq
+- 👋 Hi, I’m Alwyn Bruce
 - 👀 I’m interested in DATA ANALYTICS AND DATA SCIENCE
 - 🌱 I’m currently learning ...DATA ANALYTICS AND DATA SCIENCE
 - 💞️ I’m looking to collaborate on ...DATA ANALYTICS AND DATA SCIENCE
